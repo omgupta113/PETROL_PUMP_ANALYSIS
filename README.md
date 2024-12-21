@@ -96,3 +96,4 @@ python yolo\v8\detect\detect_and_trk.py model=yolov8m.pt source=1 show=True
 **More Information**
 
 For more details, you can reach out to me on [Medium](https://chr043416.medium.com/) or can connect with me on [LinkedIn](https://www.linkedin.com/in/muhammadrizwanmunawar/)
+# PETROL_PUMP_ANALYSIS
